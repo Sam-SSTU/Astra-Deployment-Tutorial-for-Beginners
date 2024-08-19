@@ -4,5 +4,9 @@ Astra Voice Agent部署教程简介
 
 如果您是Windows用户，请参考以下目录：
 
+1. [部署Docker环境](/docs/EasyTurtorialsForBeginners/1DockerEnvironment-CN.md)
+
+
+
 如果您是Mac用户，请参考以下目录：
 （Mac用户暂未提供部署教程）
