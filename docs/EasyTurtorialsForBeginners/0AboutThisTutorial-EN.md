@@ -4,7 +4,7 @@ Welcome to the Astra Voice Agent Deployment Tutorial! This tutorial is designed 
 
 If you are a Windows user, please refer to the following directory:
 
-1. [Deploy Docker Environment](/docs/EasyTurtorialsForBeginners/1DockerEnvironment-CN.md)
+1. [Deploy Docker Environment](/docs/EasyTurtorialsForBeginners/1InstallDocker-EN.md)
 
 If you are a Mac user, please refer to the following directory:
 (Deployment tutorial is not provided for Mac users yet)
