@@ -76,3 +76,17 @@ Windows 徽标键 + R，并在“打开”框中键入“cmd”，然后选择�
 # 参考资料
 - [什么是Docker？](https://www.docker.com/resources/what-is-docker)
 - [Win10家庭版也可以装Docker桌面版了！](https://www.omicsclass.com/article/1243)
+
+Clone 项目到本地
+配置代理
+填api key.
+build docker
+访问localhost:3000
+---
+填坑：https协议xxx
+
+
+
+
+
+
